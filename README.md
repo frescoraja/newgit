@@ -11,6 +11,7 @@
 ## To run:
 
 1) By itself:
+
 ```newgit ```
 
 This will prompt you for your username and then password, then create a new repo named after the folder from which you run the command.
