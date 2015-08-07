@@ -1,11 +1,11 @@
 # NEWGIT
 
-### Create new GIT Repo from the command line. 
+### Create new GIT Repo from the command line.
 
 ## To install :
 
 
-```gem install newgit```
+```gem install newgit --pre```
 
 
 ## To run:
